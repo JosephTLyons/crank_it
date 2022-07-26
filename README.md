@@ -7,7 +7,7 @@ Build and run projects in the Playdate simulator with a key shortcut.
 - [Playdate SDK](https://play.date/dev/)
 
 ## Get Started
-**This is a template repo.**  
+**This is a template repo.**
 You can generate your own separate repositories from this template with the same directory structure, branches, and files. Click "Use this template" to create your own repo.
 
 1. Clone or download the repo.
@@ -15,5 +15,5 @@ You can generate your own separate repositories from this template with the same
 3. Assign a keyboard shortcut to the Run Without Debugging option to build and run with a keypress.
 
 ## Output
-Build files get output to `bin/Output.pdx`.  
+Build files get output to `bin/Output.pdx`.
 Change this by editing the `playdate.output` property in `.vscode/settings.json`.
